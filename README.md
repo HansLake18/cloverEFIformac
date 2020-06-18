@@ -3,9 +3,11 @@
 
 iMac19,1
 
-i5-8500 
+i5-8500
 
-RX570 4GB 
+RX570 4GB
+
+HD630
 
 B360M MORTAR
 
