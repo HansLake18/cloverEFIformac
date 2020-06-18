@@ -1,8 +1,14 @@
 # cloverEFIformac
 10.15.X
+
 iMac19,1
+
 i5-8500 
+
 RX570 4GB 
+
 B360M MORTAR
+
 SN750 500GB
+
 BCM943602CS
